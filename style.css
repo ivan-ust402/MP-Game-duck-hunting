@@ -1,0 +1,450 @@
+@keyframes duck-fly-1 {
+  0% {
+    left: -150px;
+    top: 59vh;
+  }
+  50% {
+    left: 7vw;
+    top: 41vh;
+  }
+  100% {
+    left: 100vw;
+    top: 15vh;
+  }
+}
+@keyframes duck-fly-2 {
+  0% {
+    left: -150px;
+    top: 77vh;
+  }
+  50% {
+    left: 23vw;
+    top: 79vh;
+  }
+  100% {
+    left: 100vw;
+    top: 57vh;
+  }
+}
+@keyframes duck-fly-3 {
+  0% {
+    left: -150px;
+    top: 47vh;
+  }
+  50% {
+    left: 19vw;
+    top: 55vh;
+  }
+  100% {
+    left: 100vw;
+    top: 5vh;
+  }
+}
+@keyframes duck-fly-4 {
+  0% {
+    left: -150px;
+    top: 6vh;
+  }
+  50% {
+    left: 57vw;
+    top: 75vh;
+  }
+  100% {
+    left: 100vw;
+    top: 68vh;
+  }
+}
+@keyframes duck-fly-5 {
+  0% {
+    left: -150px;
+    top: 58vh;
+  }
+  50% {
+    left: 43vw;
+    top: 77vh;
+  }
+  100% {
+    left: 100vw;
+    top: 74vh;
+  }
+}
+@keyframes duck-fly-6 {
+  0% {
+    left: -150px;
+    top: 8vh;
+  }
+  50% {
+    left: 26vw;
+    top: 71vh;
+  }
+  100% {
+    left: 100vw;
+    top: 2vh;
+  }
+}
+@keyframes duck-fly-7 {
+  0% {
+    left: -150px;
+    top: 8vh;
+  }
+  50% {
+    left: 30vw;
+    top: 26vh;
+  }
+  100% {
+    left: 100vw;
+    top: 5vh;
+  }
+}
+@keyframes duck-fly-8 {
+  0% {
+    left: -150px;
+    top: 13vh;
+  }
+  50% {
+    left: 44vw;
+    top: 69vh;
+  }
+  100% {
+    left: 100vw;
+    top: 59vh;
+  }
+}
+@keyframes duck-fly-9 {
+  0% {
+    left: -150px;
+    top: 71vh;
+  }
+  50% {
+    left: 54vw;
+    top: 51vh;
+  }
+  100% {
+    left: 100vw;
+    top: 50vh;
+  }
+}
+@keyframes duck-fly-10 {
+  0% {
+    left: -150px;
+    top: 59vh;
+  }
+  50% {
+    left: 12vw;
+    top: 3vh;
+  }
+  100% {
+    left: 100vw;
+    top: 27vh;
+  }
+}
+@keyframes duck-fly-11 {
+  0% {
+    left: -150px;
+    top: 40vh;
+  }
+  50% {
+    left: 50vw;
+    top: 11vh;
+  }
+  100% {
+    left: 100vw;
+    top: 70vh;
+  }
+}
+@keyframes duck-fly-12 {
+  0% {
+    left: -150px;
+    top: 54vh;
+  }
+  50% {
+    left: 8vw;
+    top: 75vh;
+  }
+  100% {
+    left: 100vw;
+    top: 25vh;
+  }
+}
+@keyframes duck-fly-13 {
+  0% {
+    left: -150px;
+    top: 57vh;
+  }
+  50% {
+    left: 58vw;
+    top: 69vh;
+  }
+  100% {
+    left: 100vw;
+    top: 43vh;
+  }
+}
+@keyframes duck-fly-14 {
+  0% {
+    left: -150px;
+    top: 73vh;
+  }
+  50% {
+    left: 3vw;
+    top: 18vh;
+  }
+  100% {
+    left: 100vw;
+    top: 9vh;
+  }
+}
+@keyframes duck-fly-15 {
+  0% {
+    left: -150px;
+    top: 28vh;
+  }
+  50% {
+    left: 37vw;
+    top: 75vh;
+  }
+  100% {
+    left: 100vw;
+    top: 23vh;
+  }
+}
+@keyframes duck-fly-16 {
+  0% {
+    left: -150px;
+    top: 57vh;
+  }
+  50% {
+    left: 5vw;
+    top: 62vh;
+  }
+  100% {
+    left: 100vw;
+    top: 11vh;
+  }
+}
+@keyframes duck-fly-17 {
+  0% {
+    left: -150px;
+    top: 72vh;
+  }
+  50% {
+    left: 42vw;
+    top: 53vh;
+  }
+  100% {
+    left: 100vw;
+    top: 47vh;
+  }
+}
+@keyframes duck-fly-18 {
+  0% {
+    left: -150px;
+    top: 11vh;
+  }
+  50% {
+    left: 35vw;
+    top: 2vh;
+  }
+  100% {
+    left: 100vw;
+    top: 4vh;
+  }
+}
+@keyframes duck-fly-19 {
+  0% {
+    left: -150px;
+    top: 62vh;
+  }
+  50% {
+    left: 24vw;
+    top: 23vh;
+  }
+  100% {
+    left: 100vw;
+    top: 80vh;
+  }
+}
+@keyframes duck-fly-20 {
+  0% {
+    left: -150px;
+    top: 47vh;
+  }
+  50% {
+    left: 56vw;
+    top: 41vh;
+  }
+  100% {
+    left: 100vw;
+    top: 19vh;
+  }
+}
+@keyframes finish {
+  0% {
+    left: -600px;
+    top: 30vh;
+  }
+  50% {
+    left: calc(50% - 300px);
+    top: 35vh;
+  }
+  100% {
+    left: calc(50% - 300px);
+    top: 35vh;
+  }
+}
+body {
+  counter-reset: count;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-image: url("img/field-2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  cursor: url("img/aim1 1.svg"), default;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.duck-check {
+  position: absolute;
+  visibility: hidden;
+  left: -9999999px;
+}
+.duck-check:checked {
+  counter-increment: count;
+}
+.duck-check:checked ~ label {
+  display: none;
+}
+
+.title {
+  position: absolute;
+  top: 10vh;
+  right: 30vw;
+  left: 30vw;
+  font-size: 42px;
+  text-align: center;
+}
+
+.counter-info {
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  top: 14px;
+  right: 24px;
+  font-size: 42px;
+}
+.counter-info::before {
+  content: counter(count);
+}
+
+.hint {
+  position: absolute;
+  bottom: 0vh;
+  right: 30vw;
+  left: 30vw;
+  font-size: 42px;
+  text-align: center;
+}
+
+.duck {
+  position: absolute;
+  z-index: 10;
+}
+.duck__img {
+  width: 150px;
+  cursor: url("img/aim1 1.svg"), default;
+}
+.duck_1 {
+  animation: duck-fly-1 8s ease-in 1s both;
+}
+.duck_2 {
+  animation: duck-fly-2 8s ease-in 2s both;
+}
+.duck_3 {
+  animation: duck-fly-3 8s ease-in 3s both;
+}
+.duck_4 {
+  animation: duck-fly-4 8s ease-in 4s both;
+}
+.duck_5 {
+  animation: duck-fly-5 8s ease-in 5s both;
+}
+.duck_6 {
+  animation: duck-fly-6 8s ease-in 6s both;
+}
+.duck_7 {
+  animation: duck-fly-7 8s ease-in 7s both;
+}
+.duck_8 {
+  animation: duck-fly-8 8s ease-in 8s both;
+}
+.duck_9 {
+  animation: duck-fly-9 8s ease-in 9s both;
+}
+.duck_10 {
+  animation: duck-fly-10 8s ease-in 10s both;
+}
+.duck_11 {
+  animation: duck-fly-11 8s ease-in 11s both;
+}
+.duck_12 {
+  animation: duck-fly-12 8s ease-in 12s both;
+}
+.duck_13 {
+  animation: duck-fly-13 8s ease-in 13s both;
+}
+.duck_14 {
+  animation: duck-fly-14 8s ease-in 14s both;
+}
+.duck_15 {
+  animation: duck-fly-15 8s ease-in 15s both;
+}
+.duck_16 {
+  animation: duck-fly-16 8s ease-in 16s both;
+}
+.duck_17 {
+  animation: duck-fly-17 8s ease-in 17s both;
+}
+.duck_18 {
+  animation: duck-fly-18 8s ease-in 18s both;
+}
+.duck_19 {
+  animation: duck-fly-19 8s ease-in 19s both;
+}
+.duck_20 {
+  animation: duck-fly-20 8s ease-in 20s both;
+}
+
+.finish {
+  z-index: 10;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 600px;
+  min-height: 200px;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: white;
+  font-size: 24px;
+  animation: finish 8s ease-in 30s both;
+}
+.finish__counter::before {
+  content: counter(count);
+}
+.finish__counter::after {
+  content: "20";
+}/*# sourceMappingURL=style.css.map */
