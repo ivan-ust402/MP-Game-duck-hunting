@@ -1,281 +1,301 @@
 @keyframes duck-fly-1 {
   0% {
     left: -150px;
-    top: 59vh;
+    top: 6vh;
   }
   50% {
-    left: 7vw;
-    top: 41vh;
+    left: 1vw;
+    top: 16vh;
   }
   100% {
     left: 100vw;
-    top: 15vh;
+    top: 18vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-2 {
   0% {
     left: -150px;
-    top: 77vh;
+    top: 62vh;
   }
   50% {
-    left: 23vw;
-    top: 79vh;
+    left: 45vw;
+    top: 39vh;
   }
   100% {
     left: 100vw;
-    top: 57vh;
+    top: 44vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-3 {
   0% {
     left: -150px;
-    top: 47vh;
+    top: 43vh;
   }
   50% {
-    left: 19vw;
-    top: 55vh;
+    left: 47vw;
+    top: 60vh;
   }
   100% {
     left: 100vw;
-    top: 5vh;
+    top: 30vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-4 {
   0% {
     left: -150px;
-    top: 6vh;
+    top: 55vh;
   }
   50% {
-    left: 57vw;
-    top: 75vh;
+    left: 27vw;
+    top: 65vh;
   }
   100% {
     left: 100vw;
-    top: 68vh;
+    top: 56vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-5 {
   0% {
     left: -150px;
-    top: 58vh;
+    top: 38vh;
   }
   50% {
-    left: 43vw;
-    top: 77vh;
+    left: 55vw;
+    top: 22vh;
   }
   100% {
     left: 100vw;
-    top: 74vh;
+    top: 47vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-6 {
   0% {
     left: -150px;
-    top: 8vh;
+    top: 64vh;
   }
   50% {
-    left: 26vw;
-    top: 71vh;
+    left: 13vw;
+    top: 42vh;
   }
   100% {
     left: 100vw;
-    top: 2vh;
+    top: 73vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-7 {
   0% {
     left: -150px;
-    top: 8vh;
+    top: 61vh;
   }
   50% {
-    left: 30vw;
-    top: 26vh;
+    left: 7vw;
+    top: 77vh;
   }
   100% {
     left: 100vw;
-    top: 5vh;
+    top: 23vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-8 {
   0% {
     left: -150px;
-    top: 13vh;
+    top: 62vh;
   }
   50% {
-    left: 44vw;
-    top: 69vh;
+    left: 4vw;
+    top: 79vh;
   }
   100% {
     left: 100vw;
-    top: 59vh;
+    top: 18vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-9 {
   0% {
     left: -150px;
-    top: 71vh;
+    top: 22vh;
   }
   50% {
-    left: 54vw;
-    top: 51vh;
+    left: 56vw;
+    top: 79vh;
   }
   100% {
     left: 100vw;
-    top: 50vh;
+    top: 13vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-10 {
   0% {
     left: -150px;
-    top: 59vh;
+    top: 79vh;
   }
   50% {
-    left: 12vw;
-    top: 3vh;
+    left: 2vw;
+    top: 36vh;
   }
   100% {
     left: 100vw;
-    top: 27vh;
+    top: 77vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-11 {
   0% {
     left: -150px;
-    top: 40vh;
+    top: 76vh;
   }
   50% {
-    left: 50vw;
-    top: 11vh;
+    left: 21vw;
+    top: 62vh;
   }
   100% {
     left: 100vw;
-    top: 70vh;
+    top: 54vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-12 {
   0% {
     left: -150px;
-    top: 54vh;
+    top: 25vh;
   }
   50% {
-    left: 8vw;
-    top: 75vh;
+    left: 40vw;
+    top: 53vh;
   }
   100% {
     left: 100vw;
-    top: 25vh;
+    top: 28vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-13 {
   0% {
     left: -150px;
-    top: 57vh;
+    top: 73vh;
   }
   50% {
-    left: 58vw;
-    top: 69vh;
+    left: 8vw;
+    top: 50vh;
   }
   100% {
     left: 100vw;
-    top: 43vh;
+    top: 54vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-14 {
   0% {
     left: -150px;
-    top: 73vh;
+    top: 14vh;
   }
   50% {
-    left: 3vw;
-    top: 18vh;
+    left: 41vw;
+    top: 75vh;
   }
   100% {
     left: 100vw;
-    top: 9vh;
+    top: 74vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-15 {
   0% {
     left: -150px;
-    top: 28vh;
+    top: 50vh;
   }
   50% {
-    left: 37vw;
-    top: 75vh;
+    left: 50vw;
+    top: 1vh;
   }
   100% {
     left: 100vw;
-    top: 23vh;
+    top: 15vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-16 {
   0% {
     left: -150px;
-    top: 57vh;
+    top: 52vh;
   }
   50% {
-    left: 5vw;
-    top: 62vh;
+    left: 38vw;
+    top: 66vh;
   }
   100% {
     left: 100vw;
-    top: 11vh;
+    top: 15vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-17 {
   0% {
     left: -150px;
-    top: 72vh;
+    top: 30vh;
   }
   50% {
-    left: 42vw;
-    top: 53vh;
+    left: 37vw;
+    top: 34vh;
   }
   100% {
     left: 100vw;
-    top: 47vh;
+    top: 15vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-18 {
   0% {
     left: -150px;
-    top: 11vh;
+    top: 76vh;
   }
   50% {
-    left: 35vw;
-    top: 2vh;
+    left: 1vw;
+    top: 21vh;
   }
   100% {
     left: 100vw;
-    top: 4vh;
+    top: 36vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-19 {
   0% {
     left: -150px;
-    top: 62vh;
+    top: 71vh;
   }
   50% {
-    left: 24vw;
-    top: 23vh;
+    left: 41vw;
+    top: 30vh;
   }
   100% {
     left: 100vw;
-    top: 80vh;
+    top: 48vh;
+    opacity: 0;
   }
 }
 @keyframes duck-fly-20 {
   0% {
     left: -150px;
-    top: 47vh;
+    top: 56vh;
   }
   50% {
-    left: 56vw;
-    top: 41vh;
+    left: 22vw;
+    top: 39vh;
   }
   100% {
     left: 100vw;
-    top: 19vh;
+    top: 44vh;
+    opacity: 0;
   }
 }
 @keyframes finish {
@@ -293,6 +313,7 @@
   }
 }
 body {
+  overflow: hidden;
   counter-reset: count;
   height: 100vh;
   margin: 0;
@@ -344,6 +365,18 @@ body {
 }
 .counter-info::before {
   content: counter(count);
+}
+@media (max-width: 1023px) {
+  .counter-info {
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 14px;
+    right: 24px;
+    font-size: 24px;
+  }
 }
 
 .hint {

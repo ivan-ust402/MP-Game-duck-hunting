@@ -1,8 +1,8 @@
 # Duck hunting game 
 ## Description(RU)
-Данная игра написанная на JavaScript с использованием препроцессора SASS. Поиграть в нее можно, перейдя по ссылке https://ivan-ust402.github.io/MP-Game-duck-hunting/. 
+Данная игра написанная на JavaScript с использованием препроцессора SASS. Реализована только десктопная версия! Поиграть в нее можно, перейдя по ссылке https://ivan-ust402.github.io/MP-Game-duck-hunting/. 
 ## Description(EN)
-This game is written in JavaScript using the SASS preprocessor. You can play it by following the link https://ivan-ust402.github.io/MP-Game-duck-hunting/.
+This game is written in JavaScript using the SASS preprocessor. Only desktop version implemented! You can play it by following the link https://ivan-ust402.github.io/MP-Game-duck-hunting/.
 
 ## Technologies used
 * JavaScript
