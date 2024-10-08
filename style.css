@@ -57,6 +57,7 @@
     top: 56vh;
     opacity: 0;
   }
+
 }
 @keyframes duck-fly-5 {
   0% {
@@ -316,6 +317,7 @@ body {
   overflow: hidden;
   counter-reset: count;
   height: 100vh;
+  max-width: 100vw;
   margin: 0;
   padding: 0;
   background-image: url("img/field-2.jpg");
@@ -330,6 +332,7 @@ body {
   -o-user-select: none;
   -webkit-user-select: none;
   user-select: none;
+  box-sizing: border-box;
 }
 
 .duck-check {
@@ -365,18 +368,6 @@ body {
 }
 .counter-info::before {
   content: counter(count);
-}
-@media (max-width: 1023px) {
-  .counter-info {
-    border: 1px solid black;
-    border-radius: 15px;
-    background-color: white;
-    padding: 10px;
-    position: absolute;
-    top: 14px;
-    right: 24px;
-    font-size: 24px;
-  }
 }
 
 .hint {
@@ -457,6 +448,8 @@ body {
   animation: duck-fly-20 8s ease-in 20s both;
 }
 
+
+
 .finish {
   z-index: 10;
   position: absolute;
@@ -474,6 +467,7 @@ body {
   background-color: white;
   font-size: 24px;
   animation: finish 8s ease-in 30s both;
+  /* animation: finish 1s ease-in 1s both; */
 }
 .finish__counter::before {
   content: counter(count);
@@ -481,3 +475,78 @@ body {
 .finish__counter::after {
   content: "20";
 }/*# sourceMappingURL=style.css.map */
+
+@media (max-width: 1023px) {
+  @keyframes finish {
+    0% {
+      left: -600px;
+      top: 30vh;
+    }
+    50% {
+      left: calc(50% - 300px);
+      top: 35vh;
+    }
+    100% {
+      left: calc(50% - 300px);
+      top: 35vh;
+    }
+  }
+  .counter-info {
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 14px;
+    right: 24px;
+    font-size: 24px;
+  }
+  .title {
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .duck__img {
+    width: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  @keyframes finish {
+    0% {
+      left: -600px;
+      top: 30vh;
+    }
+    50% {
+      left: calc(50% - 150px);
+      top: 35vh;
+    }
+    100% {
+      left: calc(50% - 150px);
+      top: 35vh;
+    }
+  }
+  .counter-info {
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 14px;
+    right: 24px;
+    font-size: 18px;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .finish {
+    width: 300px;
+    min-height: 150px;
+    font-size: 14px;
+    animation: finish 1s ease-in 30s both;
+  }
+  .duck__img {
+    width: 50px;
+  }
+}
